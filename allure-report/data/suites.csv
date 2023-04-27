@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Apr 05 23:06:10 BDT 2023","Wed Apr 05 23:06:27 BDT 2023","16722","Suite","Test","webtests.Logintest","webtests.Logintest","loginTest","loginTest",""
+"passed","Wed Apr 05 23:06:43 BDT 2023","Wed Apr 05 23:06:48 BDT 2023","5172","Suite","Test","webtests.Logintest","webtests.Logintest","testHomePageUrl","Home Page Loading Test with base URL","Test Description: Load website with base URL and maximize the window"
+"passed","Wed Apr 05 23:06:30 BDT 2023","Wed Apr 05 23:06:38 BDT 2023","7893","Suite","Test","webtests.Logintest","webtests.Logintest","testComplainPageTitle","testComplainPageTitle",""
+"passed","Wed Apr 05 23:06:36 BDT 2023","Wed Apr 05 23:06:44 BDT 2023","7730","Suite","Test","webtests.Logintest","webtests.Logintest","testHomePageTitle","testHomePageTitle",""
+"passed","Wed Apr 05 23:06:04 BDT 2023","Wed Apr 05 23:06:27 BDT 2023","23205","Suite","Test","webtests.Logintest","webtests.Logintest","doComplain","doComplain",""
